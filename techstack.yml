@@ -2,7 +2,7 @@ repo_name: BenHerbst/demo1
 report_id: 444f8dc043c1b7fef13fe87918820a42
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:51:16+00:00'
+timestamp: '2024-02-29T19:06:13+00:00'
 requested_by: BenHerbst
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/BenHerbst/demo1
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/BenHerbst/demo1
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/demo1
   detection_source: Repo Metadata
 - name: org.jetbrains.kotlin:kotlin-stdlib-jdk8
   description: Kotlin Standard Library JDK 8 extension
